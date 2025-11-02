@@ -16,29 +16,29 @@ function preload(){
   playImg = loadImage("../Images/play.png");
   
   //loading character images
-  blubbyImg = loadImage("../Images/blubby.png");
-  chimmyImg = loadImage("../Images/chimmy.png");
-  debilImg = loadImage("../Images/debil.png");
-  froppyImg = loadImage("../Images/froppy.png");
-  hatterImg = loadImage("../Images/hatter.png");
-  hotPuffImg = loadImage("../Images/hotPuff.png");
-  nobiImg = loadImage("../Images/nobi.png");
-  quakyImg = loadImage("../Images/quaky.png");
-  roscoImg = loadImage("../Images/rosco.png");
-  hoodleImg = loadImage("../Images/Hoodle.png");
-  garfieldImg = loadImage("../Images/Garfield.png");
-  hoodleImg = loadImage("../Images/Hoodle.png");
-  astraImg = loadImage("../Images/Astra.png");
-  custButtonImg = loadImage("../Images/customize.png");
-  pink = loadImage("../Images/pink.jpg");
-  plusImg = loadImage("../Images/plus.png");
-  minusImg = loadImage("../Images/minus.png");
-  multiplyImg = loadImage("../Images/multiply.png");
-  divideImg = loadImage("../Images/divide.png");
+  blubbyImg = loadImage("blubby.png");
+  chimmyImg = loadImage("chimmy.png");
+  debilImg = loadImage("debil.png");
+  froppyImg = loadImage("froppy.png");
+  hatterImg = loadImage("hatter.png");
+  hotPuffImg = loadImage("hotPuff.png");
+  nobiImg = loadImage("nobi.png");
+  quakyImg = loadImage("quaky.png");
+  roscoImg = loadImage("rosco.png");
+  hoodleImg = loadImage("Hoodle.png");
+  garfieldImg = loadImage("Garfield.png");
+  hoodleImg = loadImage("Hoodle.png");
+  astraImg = loadImage("Astra.png");
+  custButtonImg = loadImage("customize.png");
+  pink = loadImage("pink.jpg");
+  plusImg = loadImage("plus.png");
+  minusImg = loadImage("minus.png");
+  multiplyImg = loadImage("multiply.png");
+  divideImg = loadImage("divide.png");
 
   //loading arrow images
-  rightImg = loadImage("../Images/right.png");
-  leftImg = loadImage("../Images/back.png");
+  rightImg = loadImage("right.png");
+  leftImg = loadImage("back.png");
 }
 
 function setup() {
